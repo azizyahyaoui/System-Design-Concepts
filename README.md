@@ -5,7 +5,7 @@ Welcome to my curated collection of system design fundamentals. This repository 
 ## 📂 What's Inside
 
 * **GoldenBrickV1.md**: My initial framework for approaching system design problems. It outlines key principles and strategies that I find essential.
-* **System design.md**: A compilation of core concepts, patterns, and best practices in system design. This includes topics like scalability, availability, and fault tolerance.([Reddit][1])
+* **System design.md**: A compilation of core concepts, patterns, and best practices in system design. This includes topics like scalability, availability, and fault tolerance. ([Reddit][1])
 
 ## 🛠️ Topics Covered
 
@@ -33,5 +33,3 @@ While this is a personal project, I'm open to feedback and discussions. If you h
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
