@@ -18,7 +18,7 @@ Welcome to my curated collection of system design fundamentals. This repository 
 * Rate Limiting and Throttling
 * Microservices vs Monoliths
 * Disaster Recovery and Fault Tolerance
-* Security Considerations in System Design([GitHub][2], [ByteByteGo Blog][3])
+* Security Considerations in System Design
 
 These topics are inspired by industry standards and resources like [System Design Primer](https://github.com/donnemartin/system-design-primer), [ByteByteGo](https://github.com/ByteByteGoHq/system-design-101).([GitHub][4]) and also [freeCodeCamp](https://www.youtube.com/watch?v=F2FmTdLtb_4)
 
